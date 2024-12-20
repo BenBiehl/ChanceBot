@@ -3,7 +3,7 @@
 A discord bot that allows you to generate a variety of random outputs to be used in a variety of scenarios.
 
 # Planned Features
-- [ ] /roll (similar to banchobot)
+- [x] /roll (similar to banchobot)
 - [ ] /8ball (outputs 8-ball like responses)
 - [ ] /coinflip (heads or tails)
 - [ ] /pickuser (picks random user in server)
